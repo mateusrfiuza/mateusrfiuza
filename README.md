@@ -1,4 +1,4 @@
-![5G9A0423](https://github.com/user-attachments/assets/7d6c77e0-c081-4239-997f-0c935b2ef971)## Hi there 👋 I'm Mateus Fiuza
+## Hi there 👋 I'm Mateus Fiuza
 
 I'm a Senior Software Engineer with 10+ years of experience designing, building, and optimizing scalable backend systems.
 
