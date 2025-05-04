@@ -16,7 +16,7 @@ I'm a Senior Software Engineer with 10+ years of experience designing, building,
 
 ### 🔭 Currently Working On
 
-- Enhancing backend performance at [Open English](https://www.openenglish.com/) with Java 21 Virtual Threads.
+- Enhancing backend performance at [Open English](https://www.openenglish.com.br/) with Java 21 Virtual Threads.
 - Migrating legacy services to modern, cloud-native architectures.
 - Exploring AI-driven features for interactive education platforms.
 
