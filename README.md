@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer with 10+ years of experience designing, building, and optimizing scalable backend systems.
 
-🚀 I've worked with companies like Open English, iFood, Epic Games, Itaú Bank, Pagbank and Capgemini, contributing to projects involving Java 21 Virtual Threads, distributed microservices, AWS cloud architecture, and real-time data pipelines.
+🚀 I've worked with companies like Open English, iFood, Epic Games, Itaú Bank, Pagbank and Capgemini, contributing to projects involving Java, distributed microservices, AWS cloud architecture, and real-time data pipelines.
 
 💡 My stack includes:
 - **Languages & Frameworks**: Java, Kotlin, Python, Spring Boot, Spring WebFlux  
