@@ -12,7 +12,7 @@ I'm a Senior Software Engineer with 10+ years of experience designing, building,
 
 🌎 I’m passionate about crafting robust solutions, reducing tech debt, and improving performance—whether that means migrating legacy systems, reducing costs, or boosting throughput.
 
-📍 Originally from Salvador, Bahia — now working remotely from São Paulo, Brazil.
+📍 Originally from Salvador, Bahia — now working remotely from Barcelona, Spain.
 
 ### 🔭 Currently Working On:
 
