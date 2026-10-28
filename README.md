@@ -20,10 +20,6 @@ I'm a Senior Software Engineer with 10+ years of experience designing, building,
 - Migrating legacy services to modern, cloud-native architectures.
 - Exploring AI-driven features for interactive education platforms.
 
-<img width="1070" alt="image" src="https://github.com/user-attachments/assets/8635b5c6-ab13-42d9-8c05-82bd7deff8fb" />
-Location Niagara Falls | 2023-11-04
-
-
 ### 📫 Let's Connect:
 
 - ✉️ mateusrfiuza@gmail.com  
